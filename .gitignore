@@ -1,0 +1,16 @@
+**/*.exe
+**/*.out
+
+**/*.layout
+**/*.win
+**/*.o
+**/*.res
+**/Makefile.win
+
+**/*.bak
+**/*.tmp
+
+**/Debug/
+**/Release/
+**/bin/
+**/obj/
